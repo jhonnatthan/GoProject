@@ -1,4 +1,4 @@
-# Projeto Spartan #
+# Projeto Go #
 
 ## Dependências
 
